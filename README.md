@@ -18,3 +18,8 @@ Visualized sample images with labels.\
 Built and trained a CNN with three convolutional layers, dropout, and ReLU activation.\
 Preprocessed images using ImageDataGenerator with rescaling.\
 Trained on 22,564 images and tested on 2,513 images over 15 epochs.
+
+**Week 3**\
+Model Evaluation: Plotted accuracy and loss curves for training and validation.\
+Prediction Function: Implemented a function to classify new images as recyclable or organic.\
+Testing on Sample Images: Successfully tested the model on TEST images.
